@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+.first{
+    padding: 50px;
+    height: 250px;
+    width: 300px;
+    background-color: aquamarine;
+    text-align: center;
+    justify-content: center;
+}
